@@ -10,7 +10,7 @@ class Program
      
         Console.ReadLine();
 
-        string hotChick = "Gunilla"
+        string hotChick = "Gunilla";
         string carOne = "Green";
         string carTwo = " Blue";
         string carThree = "Red";

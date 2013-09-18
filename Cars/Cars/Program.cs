@@ -9,7 +9,7 @@ class Program
             string carOne = "Green";
             string carTwo = " I am bluje";
             int carThree = "I am blue dadbadebadidajjj";
-            Console.WriteLine("Hi, I'm a caaar and I am " + carOne);
+            Console.Writeline("Hi, I'm a caaar and I am " + carfore);
         }
 }
 

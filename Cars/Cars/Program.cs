@@ -7,8 +7,13 @@ class Program
     public static void Main()
     {
         string bitch = " ";
-        Console.WriteLine("Whats your girl named?");
+        Console.WriteLine("What is your girlfriends age?");
         bitch = Console.ReadLine();
+        Console.Clear();
+
+        string money = " ";
+        Console.WriteLine("What is your monthly salary?");
+        money = Console.ReadLine();
         Console.Clear();
 
         string car = " ";
@@ -16,7 +21,7 @@ class Program
         car = Console.ReadLine();
         Console.Clear();
 
-        Console.WriteLine("I have a girl named " + bitch + "and a " + car);
+        Console.WriteLine("Your girlfriend age is " + bitch + " and a " + car + "and you make " + money + " a month");
     }
 }
 
